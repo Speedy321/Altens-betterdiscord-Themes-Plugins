@@ -7,3 +7,5 @@
 This is a theme with Mac/ios Frosted Glass
 
 Link: https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/master/Themes/FrostedGlass.theme.css
+
+Update 1: added background blur when clicking on a photo or posting a photo, fixed a litle of the pins section, added frosted glass when hovering on a channel.
