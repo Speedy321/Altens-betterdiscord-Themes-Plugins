@@ -1,4 +1,4 @@
-//META{"name":"Frosted glass","description":"This is a theme with Frosted Glass","author":"Alten","version":"0.5"}*//{}
+//META{"name":"Frosted glass","description":"This is a theme with Frosted Glass","author":"Alten","version":"0.6"}*//{}
 
 .channels-3g2vYe {
     background-color: rgba(0,0,0,0);
@@ -26,6 +26,16 @@
 .theme-dark .chat form .typing {
     background-color: transparent;
 }
+.messages-popout {
+    -ms-flex: 1;
+    -webkit-box-flex: 1;
+    -webkit-box-sizing: border-box;
+    border-radius: 0 0 5px 5px;
+    box-sizing: border-box;
+    flex: 1;
+    padding: 13px 5px 7px 13px;
+    background: none;
+}
 .theme-dark .chat form {
     background-color: transparent;
     box-shadow: none;
@@ -49,6 +59,17 @@
 .theme-dark #friends {
     background-color: transparent;
 }
+.contentHoverText-2HGIY {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important; /*blurred image*/
+    background-size: cover !important;
+    background-position: center;
+	background-attachment: fixed;
+}
+.theme-dark .messages-popout-wrap .messages-popout .message-group {
+    background-color: rgba(54, 57, 62, 0);
+    border-color: rgba(28, 36, 43, 0);
+    background: none;
+}
 .theme-dark .headerBar-cxbhPD {
     background: transparent;
 }
@@ -56,7 +77,7 @@
     background-color: rgba(255, 255, 255, 0.1);
 }
 .message-group {
-    box-shadow: inset 0 0 200px 200px rgba(255, 255, 255, 0.05) !important;
+    box-shadow: inset 0 0 2000px 2000px rgba(255, 255, 255, 0.05) !important;
     background-image: url(https://i.imgur.com/CRMHVXx.png) !important; /*blurred image*/
     background-size: cover !important;
     background-position: center;
@@ -83,6 +104,93 @@
     border-bottom: 1px solid rgba(255,255,255,0.1);
     padding-bottom: 5px;
     margin: 0px 10px;
+}
+.theme-dark .message-group .comment .markup code.inline, .theme-dark .message-group .comment .markup pre code {
+    /* background-image: url(https://i.imgur.com/CRMHVXx.png) !important; */
+    /* background-size: cover !important; */
+    /* background-position: center; */
+    /* background-attachment: fixed; */
+    /* box-shadow: inset 0 0 2000px 2000px rgba(255, 255, 255, 0.2) !important; */
+}
+.theme-dark .inner-3if5cm {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(255, 255, 255, 0.15) !important;
+}
+.contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh:active, .contentSelectedVoice-gTtYM9:active {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(255, 255, 255, 0.15) !important;
+}
+.uploadModal-2KN6Mm .footer-4pOKm8 .button {
+    margin-left: 10px;
+}
+.uploadModal-2KN6Mm {
+    -ms-flex-direction: column;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: vertical;
+    -webkit-filter: blur(0);
+    -webkit-perspective: 1000;
+    background-color: #7289da;
+    border-radius: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    filter: blur(0);
+    flex-direction: column;
+    min-height: 258px;
+    perspective: 1000;
+    width: 520px;
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(255, 255, 255, 0.15) !important;
+}
+.backdrop-2ohBEd {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 2000px 2000px rgba(255, 255, 255, .1) !important;
+}
+.uploadModal-2KN6Mm .footer-4pOKm8 {
+    -ms-flex-direction: row;
+    -ms-flex-pack: end;
+    -webkit-box-direction: normal;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: end;
+    background-color: #5b6dae;
+    border-radius: 0 0 10px 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding: 10px;
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(255, 255, 255, 0.15) !important;
+}
+.theme-dark .body-3_tdh6 {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(0, 0, 0, 0.1) !important;
+}
+.topSectionNormal-2LlRG1 {
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 200px 200px rgba(0, 0, 0, .5) !important;
 }
 .theme-dark .ui-standard-sidebar-view .content-region {
     background: transparent;
@@ -111,6 +219,15 @@
     background-size: cover !important;
     background-position: center;
     background-attachment: fixed;
+}
+.backdrop-2ohBEd {
+    opacity: 1;
+    transform: translateZ(0px);
+    background-image: url(https://i.imgur.com/CRMHVXx.png) !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed;
+    box-shadow: inset 0 0 2000px 2000px rgba(255, 255, 255, .1) !important;
 }
 .guilds-wrapper .guilds .guild .guild-inner {
     background: #2f3136;
