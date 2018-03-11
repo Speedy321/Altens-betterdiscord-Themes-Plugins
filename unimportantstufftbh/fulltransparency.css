@@ -1,0 +1,163 @@
+.auth-tiling-bg,
+.auth-background,
+.container-2oOGIt,
+#app-mount {
+	background: var(--background) center/cover !important;
+	opacity: 1 !important;
+	animation: none !important;
+}
+
+.uploadArea-23on8q,
+.backdrop-2ohBEd {
+	background: var(--backdrop) center/cover !important;
+	opacity: 1 !important;
+	animation: none !important;
+}
+
+.noChannel-2EQ0a9,
+.activityFeed-HeiGwL,
+.lfg-3xoFkI,
+.app,
+.auth-center,
+.auth-form,
+.layers-20RVFW,
+.layer-kosS71,
+.container-2OU7Cz,
+.popout section,
+.content-region,
+.guilds-wrapper,
+#friends .tab-bar-item:hover,
+.input-2YozMi,
+.item-2zi_5J:not([style*="rgb(114, 137, 218)"]) .checked-2TahvT,
+.containerUserOver-2YhVL6::after,
+.chat .inner-3if5cm,
+.message-group-blocked,
+.embedInner-t4ag7g,
+.contextMenu-uoJTbz,
+.changeDetails-zbf-61,
+.Select-control,
+.form-inner,
+.private-channel-call,
+.react-datepicker__header,
+.react-datepicker__month-container,
+.react-datepicker__day--disabled:not(.react-datepicker__day--outside-month),
+.search-2--6aU .search-bar,
+.search-results-wrap,
+.search-results-wrap .search-header,
+.sidebar-region,
+:not(.tab-content) > .ui-standard-sidebar-view,
+.card-3DrRmC,
+.channels-3g2vYe,
+.container-3lnMWU,
+.container-iksrDt,
+.reactors-2PjMP0 {
+	background: rgba(var(--transparencycolor),var(--transparencyalpha)) !important;
+}
+
+.sidebar-32BRdp {
+	background: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 2)) !important;
+}
+
+.tutorial-popout .title-content,
+.modal-2LIEKY .header,
+.modal-2LIEKY .footer,
+.wrapper-1XTKlU,
+.popout header,
+.popout .header,
+.popout .footer,
+.auth-brand,
+.date-picker-hint,
+.modal-3HOjGZ,
+.modal-3HOjGZ .header-3sp3cE,
+.modal-3HOjGZ .footer-1PYmcw,
+.divider-1G01Z9,
+.divider-ShvCWe,
+.divider span,
+.divider > div,
+.guild-inner,
+.header-1UnvfG,
+.itemDefault-3NDwnY:hover,
+.selectableItem-3PW5_y:hover,
+.friend:hover,
+.ui-tab-bar-item:hover,
+.friends-row:hover,
+.channel:hover a,
+.member:hover,
+.member.popout-open,
+.input-3_iTLI,
+.attachment-1Vom9D,
+.wrapperHoveredCollapsed-25KVVp,
+.wrapperHovered-1KDCyZ,
+.wrapperLockedVoice-1XZJmE:hover .content-2mSKOj,
+.wrapperHoveredVoice-3tbfNN .content-2mSKOj,
+.wrapperHoveredText-1PA_Uk .content-2mSKOj,
+.userHovered-3tfm93,
+.message-group .inline,
+.message-group pre,
+.message-group-blocked-btn,
+.number-30pAHE,
+.bda-slist li,
+.cardPrimary-ZVL9Jr,
+.cardPrimaryOutline-2YyAz2,
+.selectorSelected-2M0IGv,
+#autocomplete-popout .row.selected,
+.game-name-input:hover,
+.game-name-input:focus,
+.selectableItem-3PW5_y:hover,
+.not-detected,
+.previewOverlay-2vHj3H,
+.private-channel-call-actions .center,
+.search-results-wrap .search-result-message.hit,
+.react-datepicker__day--outside-month,
+.embed-2diOCQ,
+.wrapper-uAa07y,
+.invite-CTGItT,
+.close-3ejNTg:hover,
+.guild-separator::after,
+button.guild {
+	border-color: transparent !important;
+	background: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 3)) !important;
+}
+
+.bubble-17BwqU,
+.container-2oeFrl {
+	background: rgba(var(--transparencycolor),0.8) !important;
+}
+
+.bubble-17BwqU:before {
+	border-top-color: rgba(var(--transparencycolor),0.8) !important;
+}
+
+.bar-2cFRGz {
+	padding: 1px;
+}
+
+.Select-control,
+.message-group-blocked,
+.input-2YozMi:not(:focus),
+.container-3lnMWU,
+.cardPrimaryEditable-2IQ7-V,
+.react-datepicker__day:not(.react-datepicker__day--outside-month) {
+	border-color: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 3)) !important;
+}
+
+.Select-control:hover {
+	border-color: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 6)) !important;
+}
+
+.message-25xg43 {
+	box-shadow: none !important;
+	border: none !important;
+	border-radius: 5px !important;
+	background: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 2)) !important;
+	padding-left: 10px;
+}
+
+.emojiButtonNormal-2yO7yT {
+	opacity: 0.5 !important;
+}
+
+input:disabled {
+	background: rgba(var(--transparencycolor),calc(var(--transparencyalpha) * 3)) !important;
+	filter: brightness(50%) !important;
+}
