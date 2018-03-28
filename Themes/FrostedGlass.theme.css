@@ -328,7 +328,3 @@
 	background-size: cover !important;
     background-position: center !important;
 }
-.friends-icon {
-  -webkit-mask: url('https://canary.discordapp.com/assets/89576a4bb71f927eb20e8aef987b499b.svg') center/32px 28px no-repeat !important;
-  background: rgba(255,255,255,1) !important;
-}
