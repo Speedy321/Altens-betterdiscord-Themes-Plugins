@@ -1,4 +1,4 @@
-//META{"name":"Frosted glass","description":"This is a theme with Frosted Glass","author":"Alten","version":"0.6"}*//{}
+//META{"name":"Frosted glass","description":"This is a theme with Frosted Glass","author":"Alten","version":"0.7.1"}*//{}
 
 .channels-3g2vYe {
     background-color: rgba(0,0,0,0);
@@ -37,9 +37,6 @@
 }
 .guilds-wrapper {
     background-color: transparent;
-}
-.scroller-fzNley::-webkit-scrollbar {
-    width: 15px;
 }
 .theme-dark .chat form .typing {
     background-color: transparent;
@@ -138,14 +135,12 @@
     border-color: rgba(28, 36, 43, 0);
     background: none;
 }
-.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: rgba(255, 255, 255, .17);
-    border-color: rgba(255, 255, 255, .17);
-}
-.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
-    background-color: rgba(255, 255, 255, 0.17);
-    border-color: rgba(255, 255, 255, .17);
-}
+::-webkit-scrollbar{background:none!Important;border:none!Important}
+::-webkit-scrollbar-button{background:none!Important;border:none!Important}
+::-webkit-scrollbar-thumb{background:rgba(255,255,255,0.17)!Important;border:none!Important}
+::-webkit-scrollbar-track{background:rgba(255,255,255,0.17)!Important;border:none!Important;border-radius:10px}
+::-webkit-scrollbar-track-piece{background:none!Important;border:none!Important}
+::-webkit-scrollbar-corner{background:none!Important;border:none!Important}
 .theme-dark .headerBar-cxbhPD {
     background: transparent;
 }
@@ -332,4 +327,8 @@
     background-image: url(http://bit.ly/2gPLxZ4);
 	background-size: cover !important;
     background-position: center !important;
+}
+.friends-icon {
+  -webkit-mask: url('https://canary.discordapp.com/assets/89576a4bb71f927eb20e8aef987b499b.svg') center/32px 28px no-repeat !important;
+  background: rgba(255,255,255,1) !important;
 }
