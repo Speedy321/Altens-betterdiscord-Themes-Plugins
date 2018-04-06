@@ -18,3 +18,5 @@ added frosted glass when hovering a user, added frosted glass when user is click
 
 ### 0.7.1:
 fixed the version number and the scroller
+
+e
