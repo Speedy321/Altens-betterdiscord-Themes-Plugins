@@ -1,0 +1,88 @@
+//META{"name":"Experimental mini themes","description":"basicly some mini stuff that you wont really notice, this includes:\n\nPulsing unread or pinged messages on servers,\nCircled status.\n\nWill add more in the future","author":"Alten","version":"1.0"}*//
+
+.guild.unread:before {
+    animation: pulse 2s infinite;
+}
+.unread-23Kvxk {
+    animation: pulse 2s infinite;
+}
+.badge {
+    animation: pulsebadge 2s infinite;
+}
+@-webkit-keyframes pulse {
+    0% {
+      -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+    }
+    70% {
+        -webkit-box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
+    }
+    100% {
+        -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+    }
+  }
+  @keyframes pulse {
+    0% {
+      -moz-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+      box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+    }
+    70% {
+        -moz-box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
+        box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
+    }
+    100% {
+        -moz-box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+        box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+    }
+  }
+  @keyframes pulsebadge {
+    0% {
+      -moz-box-shadow: 0 0 0 0 rgba(240, 71, 71, 0.4);
+      box-shadow: 0 0 0 0 rgba(240, 71, 71, 0.4);
+    }
+    70% {
+        -moz-box-shadow: 0 0 0 10px rgba(240, 71, 71, 0);
+        box-shadow: 0 0 0 10px rgba(240, 71, 71, 0);
+    }
+    100% {
+        -moz-box-shadow: 0 0 0 0 rgba(240, 71, 71, 0);
+        box-shadow: 0 0 0 0 rgba(240, 71, 71, 0);
+    }
+  }
+  
+  .statusOnline-1Mp2_H{
+    background-color:transparent;
+    border: 3px solid #43b581 !important;
+    bottom: -3px !important;
+    right: -3px !important;
+    }
+.statusInvisible-2ci18Q, .statusOffline-jZXr_u {
+    background-color: transparent;
+    border: 3px solid  #747f8d !important;
+    }
+.statusDnd-35xAXU{
+    background-color:transparent;
+    border: 3px solid #f04747 !important;
+    }
+.statusIdle-2AQdvu{
+    background-color:transparent;
+    border: 3px solid #faa61a !important;
+    }
+.status-3jUEha{
+    width:100%;
+    height:100%;
+    border-width:3px !important;
+    }
+.status-3jUEha{
+    position:absolute;
+    bottom:-2px;
+    right:-2px;
+    }
+.small-TEeAkX .statusTyping-lRly31 {
+    border-radius: 999px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    overflow: hidden;
+    right: -2px !important;
+    width: 100% !important;
+}
