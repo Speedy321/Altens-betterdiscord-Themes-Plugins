@@ -1,5 +1,4 @@
-//META{"name":"Experimental mini themes","description":"basicly some mini stuff that you wont really notice, this includes:\n\nPulsing unread or pinged messages on servers,\nCircled status.\n\nWill add more in the future","author":"Alten","version":"1.0"}*//
-
+//META{"name":"Experimental mini themes","description":"basicly some mini stuff that you wont really notice, this includes:\n\nPulsing unread or pinged messages on servers,\nCircled status.\n\nWill add more in the future","author":"Alten","version":"0.7.2"}*//{}
 .guild.unread:before {
     animation: pulse 2s infinite;
 }
