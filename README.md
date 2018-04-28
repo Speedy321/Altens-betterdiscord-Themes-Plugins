@@ -31,3 +31,6 @@ fixed the version number and the scroller
 
 ### 0.7.2:
 fixed members section and centered role names
+
+### 1.0:
+fixed everything
