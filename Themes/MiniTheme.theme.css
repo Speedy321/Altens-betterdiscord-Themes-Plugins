@@ -2,7 +2,7 @@
 .guild.unread:before {
     animation: pulse 2s infinite;
 }
-.unread-23Kvxk {
+.unread-1Dp-OI {
     animation: pulse 2s infinite;
 }
 .badge {
@@ -48,35 +48,35 @@
     }
   }
   
-  .statusOnline-1Mp2_H{
+  .statusOnline-1FlpW_{
     background-color:transparent;
     border: 3px solid #43b581 !important;
     bottom: -3px !important;
     right: -3px !important;
     }
-.statusInvisible-2ci18Q, .statusOffline-jZXr_u {
+.statusInvisible-23hZKw, .statusOffline-3R-4Bv {
     background-color: transparent;
     border: 3px solid  #747f8d !important;
     }
-.statusDnd-35xAXU{
+.statusDnd-2DDKST{
     background-color:transparent;
     border: 3px solid #f04747 !important;
     }
-.statusIdle-2AQdvu{
+.statusIdle-1XoSCz{
     background-color:transparent;
     border: 3px solid #faa61a !important;
     }
-.status-3jUEha{
+.status-oxiHuE{
     width:100%;
     height:100%;
     border-width:3px !important;
     }
-.status-3jUEha{
+.status-oxiHuE{
     position:absolute;
     bottom:-2px;
     right:-2px;
     }
-.small-TEeAkX .statusTyping-lRly31 {
+.small-5Os1Bb .statusTyping-2ed9jJ {
     border-radius: 999px;
     display: -webkit-box;
     display: -ms-flexbox;
