@@ -20,22 +20,11 @@ Circled status.
 Will add more in the future
 ## Update logs
 ### Frosted Glass:
-### 0.6: 
-added background blur when clicking on a photo or posting a photo, fixed a litle of the pins section, added frosted glass when hovering on a channel.
-
-### 0.7: 
-added frosted glass when hovering a user, added frosted glass when user is clicked on, added frosted glass when hovering a server (name tags), added transparency to the scroller.
-
-### 0.7.1:
-fixed the version number and the scroller
-
-### 0.7.2:
-fixed members section and centered role names
-
-### 1.0:
-fixed everything
 
 | Version | Changes                            |
 | :-----: | ---------------------------------- |
 | 0.6:    | added background blur when clicking on a photo or posting a photo, fixed a litle of the pins section, added frosted glass when hovering on a channel.                    |
 | 0.7     | added frosted glass when hovering a user, added frosted glass when user is clicked on, added frosted glass when hovering a server (name tags), added transparency to the scroller.|
+| 0.7.1 | fixed the version number and the scroller |
+| 0.7.2 | fixed members section and centered role names |
+| 1.0 | fixed almost everything |
