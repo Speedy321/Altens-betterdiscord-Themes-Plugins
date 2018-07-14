@@ -13,3 +13,6 @@ Circled status.
 
 Will add more in the future
 ## Update logs
+
+### extra stuff
+if you are wondering what happened to the Frosted Glass theme, i deleted it. there will be a better one soon
