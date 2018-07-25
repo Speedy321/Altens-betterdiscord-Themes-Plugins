@@ -15,7 +15,7 @@
 }
 
 /*Land of transparency*/
-.theme-dark .header-1RC2Wb, .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6, .emojiPicker-3m1S-j .stickyHeader-1SS0JU, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .search-results-wrap, .theme-dark .search-results-wrap .search-header, .theme-dark .search-results-wrap .channel-separator .channel-name, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .markup-2BOw-j pre, .theme-dark .menu-Sp6bN1, .theme-dark .header-ykumBX, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .container-PNkimc, .channels-Ie2l6A, .container-2lgZY8, .theme-dark .title-3qD0b-, .theme-dark .chat, .theme-dark .wrapper-29NfPK, .theme-dark .chat>.content, .theme-dark .chat form, .theme-dark .members-1998pB, .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .activityFeed-28jde9, .theme-dark .headerNormal-T_seeN {
+.theme-dark .headerBar-UHpsPw, .theme-dark .header-1RC2Wb, .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6, .emojiPicker-3m1S-j .stickyHeader-1SS0JU, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .search-results-wrap, .theme-dark .search-results-wrap .search-header, .theme-dark .search-results-wrap .channel-separator .channel-name, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .markup-2BOw-j pre, .theme-dark .menu-Sp6bN1, .theme-dark .header-ykumBX, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .container-PNkimc, .channels-Ie2l6A, .container-2lgZY8, .theme-dark .title-3qD0b-, .theme-dark .chat, .theme-dark .wrapper-29NfPK, .theme-dark .chat>.content, .theme-dark .chat form, .theme-dark .members-1998pB, .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .activityFeed-28jde9, .theme-dark .headerNormal-T_seeN {
     background-color: transparent;
 }
 .guilds-wrapper .guilds .guild .guild-inner, .backdrop-1wrmKB {
@@ -38,7 +38,7 @@
 }
 
 /*Land of blurs*/
-.theme-dark .dockItem-2kQDqg:hover, .article-FleDq5, .private-channels .channel:hover a, .theme-dark .card-FDVird:before, .theme-dark .footer-2yfCgX, .video-1kutKI, .theme-dark .tiles-2aXG_k, .video-1FfuMD, .theme-dark .isLocalBot-38G0P0, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .item-3T2z1R, .need-help-modal.deprecated .footer, .need-help-modal.deprecated .header, .uploadModal-2ifh8j .footer-3mqk7D, .appMount-3VJmYg, .guilds-wrapper, .theme-dark .inner-zqa7da, .theme-dark .embedInner-1-fpTo, .membersWrap-2h-GB4, .theme-dark .search .search-bar, .theme-dark .cardPrimary-1Hv-to, .lookOutlined-3sRXeN.colorBrand-3pXr91, .theme-dark .cardPrimaryEditable-3KtE4g, .theme-dark .cardPrimaryOutline-29Ujqw, .lookOutlined-3sRXeN.colorRed-1TFJan, .theme-dark .bar-2Qqk5Z, .theme-dark .select-2TCrqx .Select-control, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .valueUnchecked-2lU_20, .contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active, .theme-dark.contextMenu-HLZMGh, popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .themeDark-3Ap_7i, .theme-dark .wrapper-29NfPK, .theme-dark .attachment-33OFj0{
+.theme-dark #friends, .theme-dark .dockItem-2kQDqg:hover, .article-FleDq5, .private-channels .channel:hover a, .theme-dark .card-FDVird:before, .theme-dark .footer-2yfCgX, .video-1kutKI, .theme-dark .tiles-2aXG_k, .video-1FfuMD, .theme-dark .isLocalBot-38G0P0, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .item-3T2z1R, .need-help-modal.deprecated .footer, .need-help-modal.deprecated .header, .uploadModal-2ifh8j .footer-3mqk7D, .appMount-3VJmYg, .guilds-wrapper, .theme-dark .inner-zqa7da, .theme-dark .embedInner-1-fpTo, .membersWrap-2h-GB4, .theme-dark .search .search-bar, .theme-dark .cardPrimary-1Hv-to, .lookOutlined-3sRXeN.colorBrand-3pXr91, .theme-dark .cardPrimaryEditable-3KtE4g, .theme-dark .cardPrimaryOutline-29Ujqw, .lookOutlined-3sRXeN.colorRed-1TFJan, .theme-dark .bar-2Qqk5Z, .theme-dark .select-2TCrqx .Select-control, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .valueUnchecked-2lU_20, .contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active, .theme-dark.contextMenu-HLZMGh, popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .themeDark-3Ap_7i, .theme-dark .wrapper-29NfPK, .theme-dark .attachment-33OFj0{
   background-image: var(--imgBlurred);
   background-position: center;
   background-size: cover;
@@ -147,13 +147,13 @@
 }
 
 /*Lighter areas*/
-.bda-dark #bda-qem button:hover, .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3, .theme-dark .jumpButton-3DTcS_, .theme-dark .messageGroupWrapper-o-Zw7G, .theme-dark .option-96V44q.selected-rZcOL-, .need-help-modal.deprecated .header input[type=text], .guilds-wrapper .guilds .guild-icon, .theme-dark .member-3W1lQa:hover .content-OzHfo4, .theme-dark .item-1GzJrl:hover, .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action, .bda-dark #bda-qem button:hover, .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3, .theme-dark .jumpButton-3DTcS_, .theme-dark .messageGroupWrapper-o-Zw7G, .theme-dark .option-96V44q.selected-rZcOL-, .need-help-modal.deprecated .header input[type=text], .guilds-wrapper .guilds .guild-icon, .theme-dark .member-3W1lQa:hover .content-OzHfo4, .theme-dark .item-1GzJrl:hover, .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
   background-color: rgba(255,255,255,0.15)
 }
 .theme-dark .passthroughSelected-1Eq0Kl {
   background: rgba(255,255,255,0.3) !important;
 }
-.bda-dark #bda-qem button.active, .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar {
+.theme-dark #friends .friends-table .friends-row:hover, .bda-dark #bda-qem button.active, .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar {
   background: rgba(255, 255, 255, 0.05)
 }
 
@@ -217,6 +217,7 @@
 .headerStreaming-2FjmGz {
   background: rgba(89,54,149,0.3)
 }
+
 
 /*Main image*/
 .theme-dark .modal-3HD5ck, .app, .uploadModal-2ifh8j, .form-deprecated .form-inner, .form.deprecated .form-inner{
