@@ -1,15 +1,12 @@
-/* //META{ "name": "Frosted glass Rewrite", "description": "A rewrite of a them that i made a while ago called: Frosted glass. This version will have some improvements far better than the original. Recomended size for discord is 100", "author": "Alten", "version": "1.0.0", "source":"none yet tbh"} *//**/
+/* //META{ "name": "Frosted glass Rewrite", "description": "A rewrite of a them that i made a while ago called: Frosted glass. This version will have some improvements far better than the original. Recomended size for discord is 100", "author": "Alten", "version": "1.0.0", "source":"https://raw.githubusercontent.com/AltenGD/Altens-betterdiscord-Themes-Plugins/master/Themes/FrostedGlassRewrite.theme.css"} *//**/
 
-/* :root {
+:root {
   --imgNonBlurred: url(https://9to5mac.files.wordpress.com/2018/06/mojave-night.jpg?quality=82&strip=all);
-  --imgBlurred: url(https://9to5mac.files.wordpress.com/2018/06/mojave-night.jpg?quality=82&strip=all);
+  --imgBlurred: url(https://i.imgur.com/dgBOlGy.jpg);
   --Brightness: rgba(0,0,0,0.2);
   --SecondaryBrightness: rgba(0,0,0,0.4);
   --ThirdBrightness: rgba(0,0,0,0.6);
-} */
-
-
-
+}
 
 /* Remove borders*/
 .theme-dark .quickMessage-1yeL4E, .theme-dark .card-FDVird:before, .wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .center-1Vp33r, .wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .side-kO0bwV, .wrapper-29NfPK.noChat-2qlG4B .center-1Vp33r, .wrapper-29NfPK.noChat-2qlG4B .side-kO0bwV, .wrapper-29NfPK.normal-2GSW0u .center-1Vp33r, .wrapper-29NfPK.normal-2GSW0u .side-kO0bwV, .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r, .theme-dark .modal-3HD5ck, .emojiPicker-3m1S-j, .stickyHeader-1SS0JU, .theme-dark .header-ykumBX, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .theme-dark .theme-dark .menu-Sp6bN1, .embedInner-1-fpTo,popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .theme-dark .attachment-33OFj0, .theme-dark .cardPrimary-1Hv-to,.theme-dark .searchPopout-1vUlP3, .theme-dark .cardPrimaryEditable-3KtE4g, .theme-dark .cardPrimaryOutline-29Ujqw, .theme-dark .select-2TCrqx .Select-control, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark.contextMenu-HLZMGh, popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .userPopout-3XzG_A {
