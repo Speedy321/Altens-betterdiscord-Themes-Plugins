@@ -127,24 +127,24 @@
 
 /*Scroller*/
  ::-webkit-scrollbar-button{
-    background:transparent!Important;
-    border:none!Important
+    background:rgba(255,255,255,0.05) !important;
+    border:none !important
 }
  ::-webkit-scrollbar-thumb{
-   background: rgba(255,255,255,0.2) !important;
-    border:none!Important
+   background: rgba(255,255,255,0.08) !important;
+    border:none !important
 }
  ::-webkit-scrollbar-track{
-    background:rgba(255,255,255,0.1)!Important;
-    border:none!Important
+    background:rgba(255,255,255,0.05) !important;
+    border:none !important
 }
  ::-webkit-scrollbar-track-piece{
-   background:transparent!Important;
-    border:none!Important
+   background:transparent !important;
+    border:none !important;
 }
  ::-webkit-scrollbar-corner{
-    background:transparent!Important;
-    border:none!Important
+    background:rgba(255,255,255,0.1) !important;
+    border:none !important
 }
 
 /*Lighter areas*/
