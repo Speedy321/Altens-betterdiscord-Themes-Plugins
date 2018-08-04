@@ -291,6 +291,13 @@
 .news-2GDtLJ {
     background-color: rgba(0,255,255,0.1);
 }
+.lookFilled-1Gx00P.colorGreen-29iAKY:hover {
+    background-color: rgba(0,155,155,0.7);
+}
+.lookFilled-1Gx00P.colorGreen-29iAKY {
+    background-color: rgba(0,155,155,0.5);
+    color: #fff;
+}
 .tooltip.tooltip-black.tooltip-right:after {
     border-right-color: rgba(0,255,255,0.2);
 }
