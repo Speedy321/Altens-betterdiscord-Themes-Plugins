@@ -21,6 +21,12 @@
 .guilds-wrapper .guilds .guild .guild-inner {
   background: transparent !important;
 }
+.theme-dark .messagesWrapper-3lZDfY {
+    background-color: transparent;
+}
+.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+    background-color: transparent;
+}
 .theme-dark .message-group .comment .markup pre, .theme-dark .typing-2GQL18 {
   background: transparent;
   border-color: transparent;
