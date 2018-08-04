@@ -15,6 +15,9 @@
 .container-PNkimc, .channels-Ie2l6A, .container-2lgZY8, .theme-dark .title-3qD0b-, .theme-dark .chat, .theme-dark .chat>.content, .theme-dark .chat form, .theme-dark .members-1998pB, .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .activityFeed-28jde9 {
     background-color: transparent;
 }
+.theme-dark .messagesWrapper-3lZDfY.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {
+    background-color: transparent;
+}
 .guilds-wrapper .guilds .guild .guild-inner {
   background: transparent !important;
 }
