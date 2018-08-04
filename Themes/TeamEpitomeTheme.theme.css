@@ -209,6 +209,88 @@
 .theme-dark .option-96V44q.selected-rZcOL- {
     background-color: rgba(0,255,255,0.2);
 }
+.theme-dark .body-3ND3kc {
+    background-color: rgba(0,255,255,0.2);
+}
+.tooltip.tooltip-black {
+    background-color: rgba(0,255,255,0.2);
+}
+.theme-dark .topSectionNormal-2-vo2m {
+    background-color: rgba(0,255,255,0.3);
+}
+.topSectionPlaying-1J5E4n {
+    background: rgba(114,137,218,0.6);
+}
+.topSectionSpotify-1lI0-P {
+    background: rgba(29,185,84,0.3);
+}
+.topSectionStreaming-1Tpf5X {
+    background: rgba(89,54,149,0.3);
+}
+.theme-dark .topSectionNormal-2-vo2m {
+  background: rgba(0,255,255,0.3);
+}
+.headerPlaying-j0WQBV {
+  background: rgba(114,137,218,0.3)
+}
+.headerSpotify-zpWxgT {
+  background: rgba(29,185,84,0.3)
+}
+.headerStreaming-2FjmGz {
+  background: rgba(89,54,149,0.3)
+}
+.theme-dark .card-7JP0BX {
+    background-color: transparent;
+    color: #f6f6f7;
+}
+.theme-dark .header-1RC2Wb {
+    background-color: rgba(0,255,255,0.1);
+}
+.theme-dark .header-1RC2Wb:hover {
+    background-color: rgba(0,255,255,0.2);
+}
+.theme-dark .body-SKIE6r {
+    background-color: rgba(0,255,255,0.1);
+}
+.headerButtonColor-G7_f-V {
+    background: rgba(0,255,255,0.2);
+}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6 {
+    background-color: rgba(0,255,255,0.2);
+    color: #f6f6f7;
+}
+.newsLink-38Naqi:hover {
+    background-color: rgba(0,255,255,0.2);
+}
+.news-2GDtLJ {
+    background-color: rgba(0,255,255,0.1);
+}
+.tooltip.tooltip-black.tooltip-right:after {
+    border-right-color: rgba(0,255,255,0.2);
+}
+.theme-dark .dockItem-2kQDqg:hover {
+    background-color: rgba(0,255,255,0.2);
+}
+.article-FleDq5 {
+    background-color: rgba(0,255,255,0.2);
+}
+.paginationItem-3-MBTL:after {
+    background: -webkit-gradient(linear,right top,left top,from(transparent),to(rgba(0,255,255,0.2)));
+    background: linear-gradient(270deg,transparent 0,rgba(0,255,255,0.2));
+}
+.carousel-JbsNzL {
+    background-color: transparent;
+}
+.contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM {
+    background-color: rgba(0,255,255,0.1);
+}
+.theme-dark .messageGroupWrapper-o-Zw7G {
+    background-color: rgba(0,255,255,0.15);
+    border-color: transparent;
+}
+.private-channels .channel.selected a {
+    background-color: rgba(0,255,255,0.1);
+}
 .theme-dark .searchPopout-1vUlP3 {
     -webkit-box-shadow: transparent;
     background-color: rgba(0,255,255,0.2);
