@@ -260,6 +260,15 @@
     background-color: transparent;
     color: #f6f6f7;
 }
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action:hover {
+    background-color: rgba(0,255,255,0.2);
+}
+.theme-dark #friends .friends-table .friends-row .friends-column-actions .friends-action {
+    background-color: rgba(0,255,255,0.1);
+}
+.theme-dark #friends .friends-table .friends-row:hover {
+    background: rgba(0,255,255,0.2);
+}
 .theme-dark .header-1RC2Wb {
     background-color: rgba(0,255,255,0.1);
 }
