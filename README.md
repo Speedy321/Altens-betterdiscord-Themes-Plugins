@@ -26,3 +26,4 @@ ___
 |-|-|-|
 |FrostedGlassRewrite|1.0.0|First version of Frosted Glass rewrite.|
 |FrostedGlassRewrite|1.0.1|Fixed guidls list|
+|FrostedGlassRewrite|1.0.2|Theme now auto updates by itself|
