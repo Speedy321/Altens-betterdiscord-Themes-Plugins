@@ -163,7 +163,11 @@
 .theme-dark .item-1Yvehc:hover {
     background: rgba(0,255,255,0.3)
 }
-
+.theme-dark .everyonePopout-nEbJY3 {
+    -webkit-box-shadow: none;
+    background-color: rgba(0,255,255,0.2);
+    box-shadow: none;
+}
 .userPopout-3XzG_A {
     box-shadow: none;
     -webkit-box-shadow: none;
