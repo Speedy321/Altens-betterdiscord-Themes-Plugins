@@ -106,10 +106,13 @@
     background-attachment: fixed;
     box-shadow: inset 0 0 0 10000px rgba(0,255,255,0.15);
 }
-.theme-dark .menu-Sp6bN1, .search-bar, .theme-dark .message-2qRu38, .theme-dark .footer-2yfCgX {
+.theme-dark .menu-Sp6bN1, .search-bar, .theme-dark .message-2qRu38, .theme-dark .footer-2yfCgX, .theme-dark .select-2TCrqx .Select-menu-outer {
     -webkit-box-shadow: none;
     background: rgba(0,255,255,0.2);
     box-shadow: none;
+}
+.theme-dark .select-2TCrqx .Select-menu-outer {
+    border-color: transparent;
 }
 .lookFilled-1Gx00P.colorRed-1TFJan {
     background-color: rgb(255, 153, 0);
@@ -141,8 +144,12 @@
 .bda-dark .emoji-picker, .bda-dark .emojiPicker-3m1S-j {
     background-color: rgba(0,255,255,0.3);
 }
-.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar {
+.userSettingsVoice-iwdUCU .media-engine-video, .bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3m1S-j .header-1nkwgG .search-bar {
     background-color: transparent;
+}
+.theme-dark .card-FDVird:before, .theme-dark .bar-2Qqk5Z, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .select-2TCrqx .is-focused .Select-control, .theme-dark .select-2TCrqx .Select-control, .theme-dark .cardPrimary-1Hv-to, .theme-dark .cardPrimaryEditable-3KtE4g, .theme-dark .cardPrimaryOutline-29Ujqw, .theme-dark .accountBtnInner-sj5jLs {
+    background-color: rgba(0,255,255,.1);
+    border-color: transparent;
 }
 .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6 {
     background-color: rgba(0,150,150,.2);
