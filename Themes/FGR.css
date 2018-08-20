@@ -244,7 +244,22 @@
 .headerStreaming-2FjmGz {
   background: rgba(89,54,149,0.3)
 }
+.theme-dark .guildsAdd-21_IdK {
+  color: #919191;
+}
 
+/*Rounding stuff*/
+.innerNoAutocomplete-1WpcVO, .content-20Aix8 {
+  border-radius: 100px;
+}
+.container-2Thooq {
+  border-radius: 0 100px 100px 0;
+}
+
+/*Invisible*/
+.theme-dark .attachButtonDivider-3Glu60 {
+  display: none;
+}
 /*Main image*/
 .canvas-3XuBXe, .theme-dark .modal-3HD5ck, .app, .uploadModal-2ifh8j, .form-deprecated .form-inner, .form.deprecated .form-inner{
   background-image: var(--imgNonBlurred);
