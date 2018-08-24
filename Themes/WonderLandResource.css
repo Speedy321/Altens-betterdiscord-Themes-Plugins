@@ -5,7 +5,7 @@
 }
 
 /*Land of transparency*/
-.theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .guildsWrapper-5TJh6A, .theme-dark .gameLibrary-TTDw4Y, .ace-monokai, .ace-monokai, .theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected, .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY, .theme-dark .messagesWrapper-3lZDfY.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .videoBackgroundWrapper-2dCt49, .theme-dark .headerBar-UHpsPw, .theme-dark .header-1RC2Wb, .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6, .emojiPicker-3m1S-j .stickyHeader-1SS0JU, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .search-results-wrap, .theme-dark .search-results-wrap .search-header, .theme-dark .search-results-wrap .channel-separator .channel-name, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .markup-2BOw-j pre, .theme-dark .header-ykumBX, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .container-PNkimc, .channels-Ie2l6A, .container-2lgZY8, .theme-dark .title-3qD0b-, .theme-dark .chat, .theme-dark .wrapper-29NfPK, .theme-dark .chat>.content, .theme-dark .chat form, .theme-dark .members-1998pB, .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .activityFeed-28jde9, .theme-dark .headerNormal-T_seeN {
+.theme-dark #friends, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .guildsWrapper-5TJh6A, .theme-dark .gameLibrary-TTDw4Y, .ace-monokai, .ace-monokai, .theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected, .theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .theme-dark .messagesWrapper-3lZDfY, .theme-dark .messagesWrapper-3lZDfY.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3, .videoBackgroundWrapper-2dCt49, .theme-dark .headerBar-UHpsPw, .theme-dark .header-1RC2Wb, .bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3m1S-j .category-2U57w6, .emojiPicker-3m1S-j .stickyHeader-1SS0JU, .theme-dark .search-results-wrap .search-result .hit, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .search-results-wrap, .theme-dark .search-results-wrap .search-header, .theme-dark .search-results-wrap .channel-separator .channel-name, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .markup-2BOw-j pre, .theme-dark .header-ykumBX, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .container-PNkimc, .channels-Ie2l6A, .container-2lgZY8, .theme-dark .title-3qD0b-, .theme-dark .chat, .theme-dark .wrapper-29NfPK, .theme-dark .chat>.content, .theme-dark .chat form, .theme-dark .members-1998pB, .theme-dark .friends-table, .theme-dark .messages-wrapper, .theme-dark .activityFeed-28jde9, .theme-dark .headerNormal-T_seeN {
     background-color: transparent;
 }
 .guilds-wrapper .guilds .guild .guild-inner, .backdrop-1wrmKB {
@@ -37,6 +37,7 @@
   background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-attachment: fixed;
 }
 .theme-dark.contextMenu-HLZMGh {
   background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
@@ -53,8 +54,12 @@
   background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
   border-radius: 15px
 }
-.theme-dark .messagesPopoutWrap-1MQ1bW, .theme-dark .isMentioned-N-h9aa, .theme-dark .modal-3HD5ck, .contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active, .theme-dark .menu-Sp6bN1 {
+.article-3kb3qm, .theme-dark .headerBar-UHpsPw, .theme-dark .card-7JP0BX, .theme-dark .everyonePopout-nEbJY3, .theme-dark .messagesPopoutWrap-1MQ1bW, .theme-dark .isMentioned-N-h9aa, .theme-dark .modal-3HD5ck, .contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active, .theme-dark .menu-Sp6bN1 {
   background: linear-gradient(to right, rgba(255, 166, 0, 0.5) , rgba(255, 255, 0, 0.5), rgba(0, 128, 0, 0.5), rgba(0, 255, 255, 0.5), rgba(0, 0, 255, 0.5), rgba(238, 130, 238, 0.5));
+}
+.paginationItem-3-MBTL:after {
+  background: linear-gradient(to top, rgba(255, 166, 0, 0.5) , rgba(255, 255, 0, 0.5), rgba(0, 128, 0, 0.5), rgba(0, 255, 255, 0.5), rgba(0, 0, 255, 0.5), rgba(238, 130, 238, 0.5));
+  background-attachment: fixed;
 }
 .private-channels .channel:hover .channel-name{
   color: black !important;
@@ -62,7 +67,7 @@
 .theme-dark.contextMenu-HLZMGh {
   background: rgba(0,0,0,0.5);
 }
-.theme-dark .messageGroupWrapper-o-Zw7G, .theme-dark .item-1GzJrl:hover, .search-bar, .theme-dark .divider-3gKybi:before, .theme-dark .divider-3gKybi span, .video-1kutKI, .theme-dark .card-FDVird:before, .theme-dark .container-2x5lvQ section, .theme-dark .container-2x5lvQ header, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
+.theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected), .theme-dark .dockItem-2kQDqg:hover, .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .theme-dark .autocomplete-1vrmpx, .theme-dark .selectorSelected-1_M1WV, .theme-dark .messageGroupWrapper-o-Zw7G, .theme-dark .item-1GzJrl:hover, .search-bar, .theme-dark .divider-3gKybi:before, .theme-dark .divider-3gKybi span, .video-1kutKI, .theme-dark .card-FDVird:before, .theme-dark .container-2x5lvQ section, .theme-dark .container-2x5lvQ header, .theme-dark .ui-standard-sidebar-view .content-region, .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
   background-color: rgba(0,0,0,0.5);
 }
 .videoHeight-Qp_9vC.normal-1jW0uq {
