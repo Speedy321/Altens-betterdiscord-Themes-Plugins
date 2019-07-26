@@ -1,3 +1,36 @@
+/*  META {
+    "author":"Alten",
+    "update":"Erdna",
+    "version":"1.1.0"}
+*/
+
+/***** Update 1.1.0, for Discord July 25th, 2019 *****/
+
+/*Server list*/
+.scroller-2TZvBN{
+    background-image: var(--imgNonBlurred);
+    border:none !important
+}
+
+/*"add server" and "search server" buttons*/
+.circleIconButton-jET_ig{
+    background-image: var(--imgBlurred);
+}
+.circleIcon-LvPL6c, .circleIconButton-jET_ig.da-circleIconButton{
+    color:rgb(56, 56, 173);
+}
+
+/*Home button*/
+.button-OhfaWu{
+    background-image: var(--imgBlurred);
+    background-position: 150px, 100px;
+}
+.homeIcon-tEMBK1.da-homeIcon{
+    color:rgb(56, 56, 173);
+}
+
+/***** Original code *****/
+
 /* Remove borders*/
 .theme-dark .guildsAdd-21_IdK, .theme-dark .invite-18yqGF, .theme-dark .emoji-alias-input .emoji-input, .theme-dark .auditLog-3jNbM6, .authBox-hW6HRx, .bda-slist li, .theme-dark .hasMore-3e72_v button, .theme-dark .quickMessage-1yeL4E, .theme-dark .card-FDVird:before, .wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .center-1Vp33r, .wrapper-29NfPK.fullScreen-3DKbL8 .actions-2vadYq .side-kO0bwV, .wrapper-29NfPK.noChat-2qlG4B .center-1Vp33r, .wrapper-29NfPK.noChat-2qlG4B .side-kO0bwV, .wrapper-29NfPK.normal-2GSW0u .center-1Vp33r, .wrapper-29NfPK.normal-2GSW0u .side-kO0bwV, .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r, .theme-dark .modal-3HD5ck, .emojiPicker-3m1S-j, .stickyHeader-1SS0JU, .theme-dark .header-ykumBX, .theme-dark .markup-2BOw-j code, .theme-dark .markup-2BOw-j code.inline, .theme-dark .theme-dark .menu-Sp6bN1, .embedInner-1-fpTo,popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .theme-dark .attachment-33OFj0, .theme-dark .cardPrimary-1Hv-to,.theme-dark .searchPopout-1vUlP3, .theme-dark .cardPrimaryEditable-3KtE4g, .theme-dark .cardPrimaryOutline-29Ujqw, .theme-dark .select-2TCrqx .Select-control, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark.contextMenu-HLZMGh, popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom.popoutBottom-1YbShG.popoutbottom.da-popout.da-popoutBottom.da-popoutbottom, .userPopout-3XzG_A {
   border-color: transparent !important;
@@ -135,8 +168,10 @@
   box-shadow: inset 0 0 0 10000px var(--Brightness);
 }
 
+
+
 /*Scroller*/
- ::-webkit-scrollbar-button{
+.platform-win .scroller-2TZvBN, ::-webkit-scrollbar-button{
     background:rgba(255,255,255,0.05) !important;
     border:none !important
 }
